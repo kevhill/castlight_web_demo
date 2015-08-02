@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+}
+.introText {
+  padding: 40px 15px;
+  text-align: center;
+}
+.row  .row {
+    margin: 0px -15px;
+}

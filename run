@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Castlight Health Demo Webapp by Kevin Hill"
+if hash node 2>/dev/null
+then
+	echo "useing node"
+    node ./app.js
+else
+	echo "using nodejs"
+	nodejs ./app.js
+fi

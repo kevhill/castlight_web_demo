@@ -1,0 +1,14 @@
+{
+  "name": "castlight_weather",
+  "version": "0.0.0",
+  "description": "Demo web app for Castlight Health interview by Kevin Hill",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.1"
+  }
+}
