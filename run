@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Castlight Health Demo Webapp by Kevin Hill"
+npm install .
 if hash node 2>/dev/null
 then
 	echo "useing node"
